@@ -38,7 +38,7 @@ SECCIÓN 4–1 Energía y potencia
 (a) 2 W (b) 0.0005 W (c) 0.25 mW (d) 0.00667 mW
 10. Convierta las siguientes cantidades en watts:
 (a) 1.5 kW (b) 0.5 MW (c) 350 mW (d) 9000 
-11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume
+11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
 14. Convierta 5*10^6 watts-minutos en kWh.
@@ -61,11 +61,8 @@ SECCIÓN 4–2 Potencia en un circuito eléctrico
 
 SECCIÓN 4–3 Clasificaciones de potencia en resistores
 
-26. Un resistor de 6.8 kohm se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor
-de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga
-que dispone de resistores en todas las clasificaciones de potencia estándar
-27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación
-utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+26. Un resistor de 6.8 kohm se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar
+27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
 
 SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
 
@@ -79,10 +76,9 @@ SECCIÓN 4–5 Fuentes de potencia
 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
 33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
-35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál
-es la eficiencia de esta fuente de potencia?
+35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?
 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
-*37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
 4 Conclusiones.
 
