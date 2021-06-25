@@ -39,8 +39,8 @@ SECCIÓN 4–1 Energía y potencia
 10. Convierta las siguientes cantidades en watts:
 (a) 1.5 kW (b) 0.5 MW (c) 350 mW (d) 9000 
 11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume
-*12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
-*13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
+12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+13. Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su consumo de potencia diario promedio?
 14. Convierta 5*10^6 watts-minutos en kWh.
 15. Convierta 6700 watts-segundos en kWh.
 16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohm para consumir 25 J?
