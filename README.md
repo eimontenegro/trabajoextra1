@@ -88,7 +88,7 @@ SECCIÓN 4–2 Potencia en un circuito eléctrico
 ![Screenshot_20210625-160549_Drive](https://user-images.githubusercontent.com/86451564/123489376-70145e00-d5d7-11eb-8c0d-e6de3f2346ed.jpg)
 
 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kohm?
-![Screenshot_20210625-155609_Drive](https://user-images.githubusercontent.com/86451564/123489408-84f0f180-d5d7-11eb-881c-9c2e98e5dc16.jpg)
+
 
 21. Calcule la potencia disipada por un resistor de 10 kohm que transporta 100 mA.
 
