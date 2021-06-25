@@ -5,21 +5,21 @@
 
 1.1. Objetivo General.
 
-• Identificar los diferentes circuitos (siendo estos circuitos en paralelo y circuitos en serie) mediante la aplicación de ejercicios que se nos plantean en ambos capítulos, por lo que debemos comprender exactamente cómo funcionan ambos tipos de circuitos acudiendo a conocimientos previos dados en anteriores capítulos para poder concretar y asociar las resoluciones para los diferentes problemas.
+• Comprender la cuarta unidad basica en un circuito electrico como es la potencia y su relacion que existe entre corriente,voltaje y resistencia.
 
 1.2. Objetivos Especificos.
 
-• Comprobar mediante los diferentes ejercicios planteados que un circuito conectado en paralelo (o derivación), dice que la resistencia total equivalente viene dada por la fórmula:
+• Comprender definiciones Basicas como son: Caída de voltaje,eficiencia,energia,fuente de potencia,joule,kilowatt-hora,potencia,watt,Ampere-hora.
 
-• Comprobar que la suma de las corrientes en las distintas ramas de un circuito derivación, es igual a la corriente total en el circuito y que así mismo que en un circuito serie la resistencia total (equivalente) es igual a la suma de los valores de las resistencias que lo forman.
+• Trabajar adecuadamente con sus respectivas unidades.
 
-• Conocer y entender las diferencias entre los circuitos en paralelos y en serie comprendiendo el funcionamiento de cada tipo y entender la relación que puede existir en cada uno de los ejercicios al momento de resolverlos tanto como en los componentes que encontramos en cada circuito planteado.
+• comprender  la conversión correcta de energía y la caída de voltaje.
 
 2 Marco Teorico.
 
 ![caputulo4_page-0001](https://user-images.githubusercontent.com/86451564/123385019-b4ade400-d55a-11eb-8cd6-48e717b30ba3.jpg)
 
-3
+3 Resolucion de ejercicios.
 
 
 ![trabajoextra_page-0001](https://user-images.githubusercontent.com/86451564/123385288-fe96ca00-d55a-11eb-9db6-96952a152213.jpg)
@@ -29,3 +29,18 @@
 ![trabajoextra_page-0005](https://user-images.githubusercontent.com/86451564/123385300-00608d80-d55b-11eb-9751-55aad87f4313.jpg)
 ![trabajoextra_page-0006](https://user-images.githubusercontent.com/86451564/123385303-00f92400-d55b-11eb-93f8-b2323e54d8c1.jpg)
 ![trabajoextra_page-0007](https://user-images.githubusercontent.com/86451564/123385304-0191ba80-d55b-11eb-88c6-fcad2fa66288.jpg)
+
+4 Conclusiones.
+
+• Los componentes eléctricos deben ser capaces de disipar cierta cantidad de energía en
+un periodo determinado.
+
+• Nos hemos dado cuenta que un resistor deberá tener una potencia nominal más grande que la potencia máxima esperada en el circuito para que pueda tener un funcionamiento adecuado.
+
+• Los resistores mas grandes pueden disipar potencia en forma de calor a comparacion que los resistores pequeños.
+
+• En un circuito electrico si su eficiencia es alta su perdida de potencia es minima.
+
+5 Bibliografia.
+
+Principios de circuitos electricos Floyd-protegido.pdf
