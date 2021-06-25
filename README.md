@@ -24,6 +24,7 @@
 SECCIÓN 4–1 Energía y potencia
 
 1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
 2. Demuestre que hay 3.6*10^6 joules en un kilowatt-hora.
 3. ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
