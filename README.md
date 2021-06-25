@@ -88,54 +88,66 @@ SECCIÓN 4–2 Potencia en un circuito eléctrico
 ![Screenshot_20210625-160549_Drive](https://user-images.githubusercontent.com/86451564/123489376-70145e00-d5d7-11eb-8c0d-e6de3f2346ed.jpg)
 
 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kohm?
-
+![Screenshot_20210625-160616_Drive](https://user-images.githubusercontent.com/86451564/123489675-18c2bd80-d5d8-11eb-8bea-fe8b807aa0e6.jpg)
 
 21. Calcule la potencia disipada por un resistor de 10 kohm que transporta 100 mA.
+![Screenshot_20210625-160728_Drive](https://user-images.githubusercontent.com/86451564/123489738-40b22100-d5d8-11eb-9bae-dd4a5bd752c4.jpg)
 
 22. Si entre los extremos de un resistor de 680 ohm existen 60 V, ¿cuál es la potencia?
+![Screenshot_20210625-160751_Drive](https://user-images.githubusercontent.com/86451564/123489781-56274b00-d5d8-11eb-894a-679ded8fcf25.jpg)
 
 23. Se conecta un resistor de 56 ohm entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
+![Screenshot_20210625-160818_Drive](https://user-images.githubusercontent.com/86451564/123489835-7951fa80-d5d8-11eb-8fca-77c85e3c3890.jpg)
 
 24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+![Screenshot_20210625-160905_Drive](https://user-images.githubusercontent.com/86451564/123489897-97b7f600-d5d8-11eb-923c-97c02457679d.jpg)
 
 25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 ohm.
 (a) ¿Cuánta energía se utiliza en dos minutos?
 (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
-
-
+![Screenshot_20210625-161001_Drive](https://user-images.githubusercontent.com/86451564/123489951-bae2a580-d5d8-11eb-8bab-8a1c368c46ef.jpg)
 
 SECCIÓN 4–3 Clasificaciones de potencia en resistores
 
 26. Un resistor de 6.8 kohm se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar
+![Screenshot_20210625-161028_Drive](https://user-images.githubusercontent.com/86451564/123490008-e06faf00-d5d8-11eb-9886-ad15ad736ed0.jpg)
 
 27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
-
+![Screenshot_20210625-161140_Drive](https://user-images.githubusercontent.com/86451564/123490053-f7ae9c80-d5d8-11eb-9099-a2e75d8f4a84.jpg)
 
 SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
 
 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
-
+![Screenshot_20210625-161213_Drive](https://user-images.githubusercontent.com/86451564/123490139-1dd43c80-d5d9-11eb-8eb8-d804fd226e6d.jpg)
 
 SECCIÓN 4–5 Fuentes de potencia
 
-
 29. Una carga de 50 ohm utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+![Screenshot_20210625-161253_Drive](https://user-images.githubusercontent.com/86451564/123490184-37758400-d5d9-11eb-8d65-17f4d0a8a898.jpg)
 
 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 ohm antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+![Screenshot_20210625-161334_Drive](https://user-images.githubusercontent.com/86451564/123490258-52e08f00-d5d9-11eb-8a88-e1704baae77c.jpg)
 
 31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+![Screenshot_20210625-161427_Drive](https://user-images.githubusercontent.com/86451564/123490302-63910500-d5d9-11eb-82ef-5acf7db216a3.jpg)
 
 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+![Screenshot_20210625-161510_Drive](https://user-images.githubusercontent.com/86451564/123490335-74417b00-d5d9-11eb-8891-675ec5e8e44a.jpg)
 
 33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+![Screenshot_20210625-161559_Drive](https://user-images.githubusercontent.com/86451564/123490393-8c18ff00-d5d9-11eb-9d21-b286acd31bb6.jpg)
 
 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+![Screenshot_20210625-161625_Drive](https://user-images.githubusercontent.com/86451564/123490418-95a26700-d5d9-11eb-94c8-5623d3133ddc.jpg)
 
 35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?
+![Screenshot_20210625-161643_Drive](https://user-images.githubusercontent.com/86451564/123490447-a226bf80-d5d9-11eb-809f-1710812c0f1a.jpg)
 
 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+![Screenshot_20210625-161705_Drive](https://user-images.githubusercontent.com/86451564/123490462-ad79eb00-d5d9-11eb-8805-e99e6d2ce8b3.jpg)
 
 37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+![Screenshot_20210625-161742_Drive](https://user-images.githubusercontent.com/86451564/123490475-b8348000-d5d9-11eb-8d03-b304e23aef14.jpg)
 
 
 4 Conclusiones.
