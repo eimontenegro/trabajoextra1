@@ -163,4 +163,4 @@ un periodo determinado.
 
 5 Bibliografia.
 
-Principios de circuitos electricos Floyd-protegido.pdf
+Principios de circuitos electricos Floydprotegido.pdf
