@@ -34,7 +34,7 @@ Cualquier carácter descrito después de un (*) el software lo considera como un
 Podemos observar que el archivo se cargó correctamente.
 ![Screenshot_20210915-212601_Drive](https://user-images.githubusercontent.com/86451564/133539334-5d6565ab-cc4f-4c2b-8228-c1c1baee4e42.jpg)
 
-4.7 Si el usuario desea ve lo que cargo al NGSPICE lo vamos hacer con el comando listing.
+4.7 Si el usuario desea ve lo que cargo al NGSPICE lo vamos hacer con el comando (listing).
 ![Screenshot_20210915-212732_Drive](https://user-images.githubusercontent.com/86451564/133539481-a1eee756-6db3-4d13-ac78-705e2447c9a9.jpg)
 
 4.8 Para simular el circuito utilizamos el comando op.
@@ -48,12 +48,14 @@ Podemos observar que el archivo se cargó correctamente.
 
 5.Análisis de los resultados
 
-Utilizando el comando ( print all ) que nos da las tensiones en los nodos a,b,c y utilizando el comando ( show r) nos muestra las corrientes que pasan por cada una de las resistencias veamos en las siguientes tablas los datos arojados por el programa.
+Utilizando el comando ( print all ) que nos da las tensiones en los nodos a,b,c  y utilizando el comando ( show r) nos muestra las corrientes que pasan por cada una de las resistencias veamos en las siguientes tablas los datos arojados por el programa.
 ![Screenshot_20210915-213227_Drive](https://user-images.githubusercontent.com/86451564/133539902-4ffc3895-69f9-4de8-8e4d-a2528e7201ab.jpg)
 
 6.Video
 
 Link del video
+
+https://youtu.be/6ITWw8XEZ0g
 
 7.Conclusion
 
