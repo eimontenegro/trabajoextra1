@@ -63,5 +63,6 @@ función de los nodos y los elementos que componen el mismo (resistencias, fuent
 6.BIBLIOGRAFÍA
 
 http://ngspice.sourceforge.net/
+
 http://ngspice.sourceforge.net/ngspice-tutorial.html
 
