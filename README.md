@@ -10,6 +10,7 @@ En temas de circuitos eléctricos el simulador NGSPICE es uno de los programas q
 Simular el siguiente circuito mixto compuesto de 4 resistencias, una fuente de voltaje, una fuente de corriente con el software NGSPICE.
 
 3.Marco teórico
+![11122_page-0001](https://user-images.githubusercontent.com/86451564/133836871-6931041e-c4c4-4458-bdd3-4b90b4aabe20.jpg)
 
 4.Explicación del procedimiento
 
